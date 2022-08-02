@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,38,0" name="CharrLang.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,30,0" name="CharrLang.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="15,0,71,0" name="CharrLang.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:391e7ae7-1069-42d3-bd9d-6674be93e43e(CharrLang.structure)/5210410522724637468">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5210410522724637468" at="13,0,14,0" concept="1" trace="props_CharrList" />
+      <node id="5210410522724637468" at="28,38,29,76" concept="3" />
+      <node id="5210410522724637468" at="29,76,30,43" concept="0" />
+      <node id="5210410522724637468" at="30,43,31,41" concept="0" />
+      <node id="5210410522724637468" at="32,9,33,31" concept="4" />
+      <node id="5210410522724637468" at="27,43,32,9" concept="2" />
+      <scope id="5210410522724637468" at="28,38,31,41">
+        <var name="cpb" id="5210410522724637468" />
+      </scope>
+      <scope id="5210410522724637468" at="27,43,33,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5210410522724637468" at="13,0,14,0" concept="5" trace="CharrList" />
+      <node id="5210410522724637468" at="17,48,18,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5210410522724637468" at="17,0,18,0" concept="1" trace="myConceptCharrList" />
+      <node id="5210410522724637468" at="41,43,42,34" concept="4" />
+      <node id="5210410522724637468" at="61,67,62,153" concept="3" />
+      <node id="5210410522724637468" at="62,153,63,33" concept="0" />
+      <node id="5210410522724637468" at="63,33,64,96" concept="0" />
+      <node id="5210410522724637468" at="64,96,65,17" concept="0" />
+      <node id="5210410522724716542" at="65,17,66,110" concept="0" />
+      <node id="5210410522724716546" at="66,110,67,197" concept="0" />
+      <node id="5210410522724637468" at="67,197,68,22" concept="4" />
+      <node id="5210410522724637468" at="61,0,70,0" concept="6" trace="createDescriptorForCharrList#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5210410522724637468" at="41,43,42,34" />
+      <scope id="5210410522724637468" at="61,67,68,22">
+        <var name="b" id="5210410522724637468" />
+      </scope>
+      <scope id="5210410522724637468" at="61,0,70,0" />
+    </file>
+  </root>
+  <root nodeRef="r:391e7ae7-1069-42d3-bd9d-6674be93e43e(CharrLang.structure)/5210410522724716539">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5210410522724716539" at="12,0,13,0" concept="1" trace="props_CharrItem" />
+      <node id="5210410522724716539" at="21,38,22,76" concept="3" />
+      <node id="5210410522724716539" at="22,76,23,43" concept="0" />
+      <node id="5210410522724716539" at="23,43,24,41" concept="0" />
+      <node id="5210410522724716539" at="25,9,26,31" concept="4" />
+      <node id="5210410522724716539" at="20,43,25,9" concept="2" />
+      <scope id="5210410522724716539" at="21,38,24,41">
+        <var name="cpb" id="5210410522724716539" />
+      </scope>
+      <scope id="5210410522724716539" at="20,43,26,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5210410522724716539" at="12,0,13,0" concept="5" trace="CharrItem" />
+      <node id="5210410522724716539" at="16,116,17,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5210410522724716539" at="16,0,17,0" concept="1" trace="myConceptCharrItem" />
+      <node id="5210410522724716539" at="39,43,40,34" concept="4" />
+      <node id="5210410522724716539" at="53,67,54,153" concept="3" />
+      <node id="5210410522724716539" at="54,153,55,34" concept="0" />
+      <node id="5210410522724716539" at="55,34,56,96" concept="0" />
+      <node id="5210410522724716539" at="56,96,57,17" concept="0" />
+      <node id="5210410522724716548" at="57,17,58,117" concept="0" />
+      <node id="5210410522724716539" at="58,117,59,22" concept="4" />
+      <node id="5210410522724716539" at="53,0,61,0" concept="6" trace="createDescriptorForCharrItem#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5210410522724716539" at="39,43,40,34" />
+      <scope id="5210410522724716539" at="53,67,59,22">
+        <var name="b" id="5210410522724716539" />
+      </scope>
+      <scope id="5210410522724716539" at="53,0,61,0" />
+    </file>
+  </root>
+</debug-info>
+

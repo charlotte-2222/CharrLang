@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/CharrLang/classes_gen/
+/languages/CharrLang/generator/classes_gen/
